@@ -1,6 +1,6 @@
 # Publishing Service
 
-This fun little API can do a few things for you: it can give you a status, tell you info about musical artists, and publish an image to an HTML page on S3 for you to look at. You can use it by plugging the address right into your web browser, or by using the ```curl``` command in the console. All responses come back in the form of plain text, so be sure to set your response type to text if you're using Postman or similar services.
+This fun little API built using the Chalice serverless framework that can do a few things for you: it can give you a status, tell you info about musical artists, and publish an image to an HTML page on S3 for you to look at. You can use it by plugging the address right into your web browser, or by using the ```curl``` command in the console. All responses come back in the form of plain text, so be sure to set your response type to text if you're using Postman or similar services.
 
 The API root URL is located at ```https://92h6vidxpg.execute-api.us-east-1.amazonaws.com/dev```
 
